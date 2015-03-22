@@ -1,0 +1,1 @@
+initialCommands += "import simpletest._"
