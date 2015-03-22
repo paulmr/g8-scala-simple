@@ -1,1 +1,1 @@
-initialCommands += "import simpletest._"
+initialCommands += "import $name$._"
